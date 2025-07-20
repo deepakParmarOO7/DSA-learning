@@ -1,3 +1,5 @@
+// to find the max diff of index j-1 so tha a[i]<a[j]
+
 arr = [34, 8, 10, 3, 2, 80, 30, 33, 1]
 
 let n = arr.length
