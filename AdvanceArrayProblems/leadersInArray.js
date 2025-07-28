@@ -21,5 +21,5 @@ const findTheLeader = (arr) => {
     }
 }
 
-arr = [7,10,4,10,6,5]
+arr = [10, 7, 4, 3, 6, 5, 2]
 const result = findTheLeader(arr)
